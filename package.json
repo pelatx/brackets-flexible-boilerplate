@@ -2,7 +2,7 @@
     "name": "pelatx.flexible-boilerplate",
     "title": "Flexible Boilerplate",
     "description": "Set a boilerplate repository folder. Then you can select a file or a folder to copy it directly to your project, or copy only some items from a directory if you want.",
-    "homepage": "", // URL for your project
+    "homepage": "https://github.com/pelatx/brackets-flexible-boilerplate", // URL for your project
     "version": "1.0.0",
     "author": "José A. Martínez <pelatx@gmail.com>",
     "license": "MIT",
